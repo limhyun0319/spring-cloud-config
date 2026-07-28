@@ -1,0 +1,7 @@
+token:
+  secret: my-very-long-secret-key-123456789123456
+  expiration-time: 86400000 #10 days
+
+gateway:
+  ip: 192.168.0.100
+
