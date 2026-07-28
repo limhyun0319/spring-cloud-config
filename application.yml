@@ -1,6 +1,6 @@
 token:
-  secret: my-very-long-secret-key-123456789123456
-  expiration-time: 86400000 #10 days
+  expiration_time: 864000000 
+  secret: '{cipher}AYBJnyihC9jtu8Fkj1j5XzT9RaLEDVpcXHV/BAFtN7W8ltsIVp9X4kHxRBfN9iNpZ9RkaihP4X08nHCycUMLXRMVndKDHZcFQkwb5egteOFu5DFPs5wcJ5Ayqya1RY1sSR1mFzQfWad36bbbKn0jZRGirC7/0+5z4ql2HZhbjxskUiD/IPVitETyFHXezRY9qwYsa/T6wKjylKAqyEss9dixpjslUWW+x0qD8EFi/ewCQUyoSX0pPIENJMjTCjmi9cDV+PrvWZOPffc6f9ZkE3+hPhqYWxN1VrA0VDiS64fh3cJG1Qra9ORfemruEXF4DBQJeVgvwXRtvuoEpM/d/5V/inX3N7XM0EX+KovKFLCZvgxdAl0fJ+LBxcr3LZEqt/WVCB+edburovs9f1jtpHPbx09tunhMZVzDNZatD1pzv9TX+/jlyzrvNeVhoGCfP/ZSLbehGwpHimOZHCsN/A5oZk9UzEYXlEnt9BbUSP/yZUjAxyDw+LiSOk+7iI4sWVLW6UdSP8uEmPDzkuU4XYx2ZisMHn8geqLd3nxFYQiD2dqao1IuJYMhqcJlt7F0mURdeCQegVPJvL/hGa4V4pd1f3RMY303U1rg9ZWKXTAhmeKj2DYb9ytUrb6NNb4OjVs='
 
 gateway:
   ip: 192.168.0.100
